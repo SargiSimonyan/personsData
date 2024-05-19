@@ -72,10 +72,19 @@ export let data = [
         online: true
     },
     {
-        id: 8,
+        id: 9,
         img: "img/feUser.png",
         name: "Leoneld",
         lastName: "Messi",
+        delete: "img/bin.png",
+        check: false,
+        online: true
+    },
+    {
+        id: 10,
+        img: "img/feUser.png",
+        name: "Cristiano",
+        lastName: "Ronaldo",
         delete: "img/bin.png",
         check: false,
         online: true
