@@ -307,5 +307,12 @@ document.body.append(addDiv);
 
 
 
+    // function sortArray(arr) {
+    //     let newarr = arr.sort((a, b) => {
+    //       return a-b;
+    //     });
+    //     return newarr;
+    //   }
 
+    //   console.log(sortArray([21,3,41,1,3,4,2,0]));
 
