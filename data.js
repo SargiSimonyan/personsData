@@ -88,5 +88,14 @@ export let data = [
         delete: "img/bin.png",
         check: false,
         online: true
+    },
+    {
+        id: 11,
+        img: "img/feUser.png",
+        name: "Garnik",
+        lastName: "Petrosyan",
+        delete: "img/bin.png",
+        check: false,
+        online: true
     }
 ];
